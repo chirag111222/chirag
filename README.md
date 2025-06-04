@@ -8,7 +8,7 @@
 - Bachelors of Technology ( ECE ) | NIRMA Institutes (2016)
 
 ## Work Experience
-**Data Scientist @ Citi ( 2022 - Present_)**
+**Data Scientist @ Citi ( 2022 - Present)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
